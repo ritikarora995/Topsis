@@ -1,10 +1,10 @@
-# TOPSIS-Anubhav-101803051
+# TOPSIS-Ritik-102053036
 
 ## What is TOPSIS
 Technique for Order Preference by Similarity to Ideal Solution (TOPSIS) originated in the 1980s as a multi-criteria decision making method.<br> TOPSIS chooses the alternative of shortest Euclidean distance from the ideal solution, and greatest distance from the negative-ideal solution.
 
 ## Installation
-```pip install TOPSIS-Anubhav-101803051```
+```pip install TOPSIS-Ritik-102053036```
 
 ## Input csv format
 Input file contain three or more columns<br>
@@ -36,6 +36,6 @@ Example:<br>
 |M5   |0.75|0.56|1.3  |80.39   |0.8128626132980138 |1   |
 
 ## License
-© 2020 Anubhav Sharma
+© 2020 Ritik arora
 
 This repository is licensed under the MIT license. See LICENSE for details.
